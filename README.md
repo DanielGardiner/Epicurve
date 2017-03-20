@@ -4,9 +4,9 @@ Author: Daniel Gardiner
 
 Contact: daniel.gardiner@phe.gov.uk
 
-date: 14.03.2017
+Date: 14.03.2017
 
-credit: this function is loosely based on the plotIncidence function created
+Credit: this function is loosely based on the plotIncidence function created
         as part of the GRINDER hackathon https://github.com/Hackout2/time
 
 Functon to plot epicurve
