@@ -51,3 +51,6 @@ label.breaks: a numeric specifying the interval for x-axis label breaks
 epi.squares: a logical  specifying if episquares should be used on the epicurve
 
 na.rm: a logical  specifying if missing dates should be removed from the epicurve
+
+
+added text
