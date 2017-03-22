@@ -1,5 +1,9 @@
 # Epicurve
 
+added text
+
+more text
+
 Author: Daniel Gardiner
 
 Contact: daniel.gardiner@phe.gov.uk
@@ -53,4 +57,3 @@ epi.squares: a logical  specifying if episquares should be used on the epicurve
 na.rm: a logical  specifying if missing dates should be removed from the epicurve
 
 
-added text
