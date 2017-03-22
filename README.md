@@ -1,9 +1,5 @@
 # Epicurve
 
-added text
-
-more text
-
 Author: Daniel Gardiner
 
 Contact: daniel.gardiner@phe.gov.uk
