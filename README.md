@@ -55,10 +55,10 @@ na.rm: a logical  specifying if missing dates should be removed from the epicurv
 
 ## Example 1
 
-<img src="https://github.com/DanielGardiner/AgeSexPyramid/blob/master/README%20IMAGES/epicurve_ex1.png" width="800" height="400" />
+<img src="https://github.com/DanielGardiner/Epicurve/blob/master/README%20IMAGES/epicurve_ex1.png" width="800" height="400" />
 
 ## Example 2
 
-<img src="https://github.com/DanielGardiner/AgeSexPyramid/blob/master/README%20IMAGES/epicurve_ex2.png" width="800" height="400" />
+<img src="https://github.com/DanielGardiner/Epicurve/blob/master/README%20IMAGES/epicurve_ex2.png" width="800" height="400" />
 
 
