@@ -50,6 +50,8 @@ label.breaks: a numeric specifying the interval for x-axis label breaks
 
 epi.squares: a logical  specifying if episquares should be used on the epicurve
 
+blank.background: a logical  specifying if the figure background should be blank
+
 na.rm: a logical  specifying if missing dates should be removed from the epicurve
 
 
