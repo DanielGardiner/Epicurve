@@ -4,7 +4,7 @@ Author: Daniel Gardiner
 
 Contact: daniel.gardiner@phe.gov.uk
 
-Date: 14.03.2017
+Date: 06.03.2018
 
 Credit: this function is loosely based on the plotIncidence function created
         as part of the GRINDER hackathon https://github.com/Hackout2/time
